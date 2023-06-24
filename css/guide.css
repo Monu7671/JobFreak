@@ -1,0 +1,24 @@
+.blog-post-content h1{
+    text-align: center;
+}
+.blog-post-content p{
+    font-size: 18px;
+}
+
+.row{
+    display: flex;
+}
+
+.blogpost-meta{ 
+    display: flex;
+    justify-content: space-between;
+}
+
+.author-info{
+    margin: 12px 0;
+    width: 100%;
+}
+.author-info div{
+    padding: 4px 0px;
+    font-family: var(--font2);
+}
